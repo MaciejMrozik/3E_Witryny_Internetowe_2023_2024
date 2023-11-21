@@ -1,0 +1,77 @@
+Mrozik Maciej
+
+Karta pracy 1
+
+Zad. 1
+
+Strict DTD - zawiera wszystkie elementy i atrybuty, które nie są zdeprecjonowane oraz nie pojawiają się w domenach z ramkami
+
+Transitional DTD - zawiera wszystko co w Strict DTD plus elementy i atrybuty zdeprecjonowane oraz elementy IFRAME
+
+Frameset DTD - zawiera wszystko co w Transitional DTD plus elementy odnoszące się do ramek: FRAME, FRAMESET oraz NOFRAMES
+________________________________________________________________________________________________________________________________
+
+Zad. 2
+
+<doctype html>
+<html lang"pl">
+
+<head>
+<title> moja strona </title>
+<head>
+
+<body>
+To jest moja strona internetowa
+</body>
+_________________________________________________________________________________________________________________________________
+
+Zad.3
+
+1 w html
+2 przykład do zadania
+3 DTD XHML 1.1
+__________________________________________________________________________________________________________________________________
+
+Test 2
+
+Zad. 1
+C
+Zad. 2
+C
+Zad. 3
+D
+Zad. 4
+A
+Zad. 5
+A
+__________________________________________________________________________________________________________________________________
+
+Zadanie egzaminacyjne 1
+
+<! DOCTYPE HTML PUBLIC "//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="content-type" CONTENT="text/html; charset-iso-8859-2">
+-</HEAD>
+<BODY>
+moja strona
+-<BODY/>
+-</HTML>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
