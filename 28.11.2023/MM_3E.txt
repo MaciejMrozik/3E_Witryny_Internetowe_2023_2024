@@ -1,0 +1,10 @@
+ZAD.1
+A
+ZAD.2
+C
+ZAD.3
+B
+ZAD.4
+A
+ZAD.5
+A
