@@ -1,0 +1,10 @@
+Zad.1
+Odp. A <marquee>
+Zad.2
+Odp. C <video>
+Zad.3
+Odp. B <map>
+Zad.4
+Odp. D height
+Zad.5 
+Odp. D format źródłowy pliku
